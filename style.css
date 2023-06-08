@@ -1,0 +1,252 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.container{
+	width:1170px;
+	margin:0 auto;
+	padding-left:15px;
+	padding-right:15px;
+	
+	
+}
+.flex_container{
+	display:flex;
+	flex-wrap:wrap;
+	margin-left:-15px;
+	margin-right:-15px;
+	
+}
+.flex_item_1{
+	width:8.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item_2{
+	width:16.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item_3{
+	width:25%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item_4{
+	width:33.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item_5{
+	width:41.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item_6{
+	width:50%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item_7{
+	width:58.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item_8{
+	width:66.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item_9{
+	width:75%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item_10{
+	width:83.33%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item_11{
+	width:91.66%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.flex_item_12{
+	width:100%;
+	flex:0 0 auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+
+/* header section start */
+.header_section{
+	background-color:red;
+	width:auto;
+	padding:20px 0px;
+}
+.header_logo{
+	background-color:black;
+	width:auto;
+	height:40px;
+}
+.header_nav{
+	background-color:black;
+	width:auto;
+	height:40px;
+}
+/* header section end */
+/* banner section start */
+.banner_section{
+	background-color:black;
+	width:auto;
+	padding:100px 0px;
+}
+.banner_content{
+	width:auto;
+	background-color:red;
+	height:300px;
+}
+/* banner section end */
+
+/* discussion section start   */
+.discussion_section{
+	background-color:red;
+	width:auto;
+	padding:50px 0px;
+}
+.discussion_rule{
+	background-color:black;
+	width:auto;
+	height:400px;
+}
+.discussion_img{
+	background-color:black;
+	width:auto;
+	height:400px;
+}
+/* discussion section end */
+/* count section start */
+.count_section{
+	background-color:black;
+	width:auto;
+	padding:20px 0px;
+}
+.count_items{
+	background-color:red;
+	width:auto;
+	height:200px;
+}
+
+/* count section end */
+/* choose section start */
+.choose_section{
+	background-color:red;
+	width:auto;
+	padding:50px 0px;
+}
+.choose_left{
+	background-color:black;
+	width:auto;
+	height:400px;
+}
+.choose_right{
+	/* background-color:black; */
+	width:auto;
+	height:auto;
+	padding:40px 0px;
+	
+}
+.choose_item{
+	background-color:black;
+	width:auto;
+	height:320px;
+}
+/* choose section end */
+/* company section start */
+.company_section{
+	background-color:black;
+	width:auto;
+	padding:40px 0px;
+}
+.company_item{
+	background-color:red;
+	width:auto;
+	height:50px;
+	padding:20px;
+}
+.boxes{
+	row-gap:30px;
+}
+/* company section end */
+/* course section start */
+.course_section{
+	background-color:red;
+	width:auto;
+	padding:20px 0px;
+}
+.course_head{
+	background-color:black;
+	width:auto;
+	height:100px;
+	margin-bottom:20px;
+}
+.course_item{
+	background-color:black;
+	width:auto;
+	height:500px;
+}
+/* course section end */
+/* employee section start */
+.employee_section{
+	background-color:black;
+	width:auto;
+	padding:20px 0px;
+}
+.employee_item{
+	background-color:red;
+	width:auto;
+	height:500px;
+}
+/* employee section end */
+/* detaile section start */
+.detaile_section{
+	background-color:red;
+	width:auto;
+	padding:20px 0px;
+}
+.detaile_item{
+	background-color:black;
+	width:auto;
+	height:350px;
+}
+
+/* detaile section end */
+
+/* contact section start */
+.contact_section{
+	background-color:black;
+	width:auto;
+	padding:20px 0px;
+}
+.contact_item{
+	background-color:red;
+	width:auto;
+	height:100px;
+}
+
+
+
+/* contact section end */
